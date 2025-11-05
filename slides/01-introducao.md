@@ -45,6 +45,13 @@ Existem diversas oportunidades de pesquisa e desenvovimento como:
 
 ---
 
+### Exemplo de CPS
+
+![imagem-de-robo-na-agricultura](./img/image1.png)
+Robô na agricultura
+
+---
+
 ## Architecture Analysis & Design Languange (AADL)
 
 A AADL é uma linguagem de modelagem, utilizada para modelar e analisar arquiteturas de sistemas ciberfísicos e embarcados.
@@ -66,7 +73,17 @@ Na AADL, um componente é caracterizado por seu nome único, interfaces, propied
 
 ### Análise de Arquitetura
 
-A AADL pode ser usada para modelar e analisar sistemas em uso, prototipar e integrar novos sistemas. Com a linguagem principal, um conjunto de propriedades pode ser declaradas, que pode incluir novas propriedades para outros componenetes ou elementos, como portas e conexões.
+A AADL pode ser usada para modelar e analisar sistemas em uso, prototipar e integrar novos sistemas. Com essa linguagem, conjuntos de propriedades podem ser declarados, permitindo a inclusão de novas propriedades para outros componenetes ou elementos, como portas e conexões.
+
+---
+### Robot Operating System (ROS)
+
+O ROS é uma coleção de bibliotecas e ferramentas robóticas de código-aberto voltadas para a contrução de softwares de robôs. 
+
+---
+### Para que o ROS serve?
+
+O ROS abstrai toda a camada de _hardware_ e facilitar a configuração de cada parte do robô através dos pacotes de seu ecossistema.
 
 ---
 <style scoped>section { font-size: 20px; }</style>
