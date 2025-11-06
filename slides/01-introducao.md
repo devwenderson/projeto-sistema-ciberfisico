@@ -88,10 +88,11 @@ O ROS é uma coleção de bibliotecas e ferramentas robóticas de código-aberto
 O ROS abstrai toda a camada de _hardware_ e facilitar a configuração de cada parte do robô através dos pacotes de seu ecossistema. Dessa forma, o ROS permite que o desenvolvedor se dedique a outros aspectos do projeto, como lógica e algoritimos.
 
 ---
+<!-- _class: style_b -->
 
 ## Uso da AADL com ROS
 
-A AADL atua na modelagem e validação da arquitetura do sistema. O ROS é utilizado para 
+A AADL atua na modelagem e validação da arquitetura do sistema. O ROS é utilizado para implementar e integrar os componentes do sistema. A ideia central é usar o AADL como modelo de alto nível para gerar automaticamente código ROS, assim acelerando o processo de desenvolvimento.
 
 ---
 <style scoped>section { font-size: 20px; }</style>
